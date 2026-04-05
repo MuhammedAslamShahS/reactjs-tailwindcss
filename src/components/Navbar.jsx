@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav className="w-full h-16 bg-slate-500 flex justify-between items-center px-8">
+    <nav className="w-full h-16 flex justify-between items-center px-8">
       <h1 className="text-2xl font-semibold">Newwesterlund</h1>
 
       <ul className="flex gap-6">
