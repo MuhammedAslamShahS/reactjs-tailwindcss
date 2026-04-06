@@ -1,0 +1,30 @@
+[
+  {
+    "mainHeadingTop": "Tailored Solution For",
+    "mainHeadingBottom": "Your Needs",
+    "mainParagraphTop": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae",
+    "mainParagraphBottom": "voluptas aliquam, laborum non itaque corporis quo enim error",
+    "items": [
+      {
+        "title": "Mobile & Website Designs",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae in ut est maiores, sint nobis?",
+        "image": "/Images/right-up.png"
+      },
+      {
+        "title": "Mobile & Website Designs",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae in ut est maiores, sint nobis?",
+        "image": "/Images/right-up.png"
+      },
+      {
+        "title": "Mobile & Website Designs",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae in ut est maiores, sint nobis?",
+        "image": "/Images/right-up.png"
+      },
+      {
+        "title": "Mobile & Website Designs",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae in ut est maiores, sint nobis?",
+        "image": "/Images/right-up.png"
+      }
+    ]
+  }
+]

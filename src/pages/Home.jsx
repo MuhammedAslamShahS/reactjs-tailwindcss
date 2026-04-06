@@ -1,5 +1,5 @@
 import Button from "../components/Button";
-import desktopImg from "../Images/desktop.jpg"
+import desktopImg from "../../Public/Images/desktop.jpg"
 
 const Home = () => {
     return (
